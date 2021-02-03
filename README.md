@@ -1,4 +1,4 @@
-# 合成大西瓜素材替换工具\nbigwatermelon_patchTool
+# 合成大西瓜素材替换工具 bigwatermelon_patchTool
 
 这是一个带有**图形界面**的程序，可以替换**合成大西瓜**小游戏中的图片素材和标题名称。
 A **GUI** tool that can replace the image material and game title in the **big watermelon** game
